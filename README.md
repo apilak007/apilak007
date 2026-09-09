@@ -7,22 +7,45 @@
 
 
 <p align="center">
-  <font size="100">
+  <font size="7">
     <b>Dream it. Build it. Make it happen. 🚀🤖</b>
     <br>
     <b>Code the future. Create your own path. 💻⚡🔥</b>
   </font>
 </p>
 
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dW5wcXY0OTNmZjdtd3h6ZXdoNDJlemozYXBjcTRyY2dhYzM2anNyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KT00yvFMOriW8k99KU/giphy.gif" width="800" height="450">
 </p>
-<p align="center">
-    <img src="lego-ev3.png" width="30%">
-    <img src="lego-nxt.png" width="30%">
-    <img src="microbit.png" width="30%">
+<hr style="height:5px; background-color:black; border:none;">
+
+<h1>🛠️ My Robotics Projects</h1>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="lego-ev3.png" width="300"><br>
+      <b>LEGO Mindstorms EV3</b>
+    </td>
+    <td align="center">
+      <img src="lego-nxt.png" width="300"><br>
+      <b>LEGO Mindstorms NXT</b>
+    </td>
+    <td align="center">
+      <img src="microbit.png" width="300"><br>
+      <b>BBC micro:bit</b>
+    </td>
+  </tr>
+</table>
+<hr style="height:5px; background-color:black; border:none;">
+<h2>⚡ About My Journey<h2>
+<p >
+  🤖 Robotics & Automation Enthusiast<br>
+  💻 Programmer & Technology Lover<br>
+  🛠️ Builder • Coder • Problem Solver<br>
+  🚀 Turning Ideas into Reality
 </p>
-A Computer Engineering student with an interest in programming and web development. Currently, I am working on projects and learning new technologies to enhance my IT skills.
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
 </p>
