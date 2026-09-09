@@ -6,13 +6,21 @@
 </h1>
 
 
-<p>
-  A Computer Engineering student with an interest in programming
-  and web development.
+<p align="center">
+  <font size="100">
+    <b>Dream it. Build it. Make it happen. 🚀🤖</b>
+    <br>
+    <b>Code the future. Create your own path. 💻⚡🔥</b>
+  </font>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dW5wcXY0OTNmZjdtd3h6ZXdoNDJlemozYXBjcTRyY2dhYzM2anNyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KT00yvFMOriW8k99KU/giphy.gif" width="800" height="450">
+</p>
+<p align="center">
+    <img src="lego-ev3.png" width="30%">
+    <img src="lego-nxt.png" width="30%">
+    <img src="microbit.png" width="30%">
 </p>
 A Computer Engineering student with an interest in programming and web development. Currently, I am working on projects and learning new technologies to enhance my IT skills.
 <p align="left">
@@ -22,7 +30,7 @@ A Computer Engineering student with an interest in programming and web developme
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/apilak007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/ginny.888" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
