@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================================
 
 <h3>Student</h3>
--------
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dW5wcXY0OTNmZjdtd3h6ZXdoNDJlemozYXBjcTRyY2dhYzM2anNyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KT00yvFMOriW8k99KU/giphy.gif" width="800" height="450">
 </p>
