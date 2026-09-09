@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3>
   Student
-  <img src="./mythikore-anime-girl.gif" width="80">
+  <img src="./mythikore-anime-girl.gif" width="60" style="vertical-align: middle;">
 </h3>
 
 <p align="center">
