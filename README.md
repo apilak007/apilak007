@@ -8,15 +8,9 @@
 
 
 
-<div align="center">
-  <big>
-    <big>
-      <strong>
-        Code the future. Create your own path. 💻⚡🔥
-      </strong>
-    </big>
-  </big>
-</div>
+<p align="center">
+  <img src="code_the_future_rainbow_no_background.gif" width="80%">
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dW5wcXY0OTNmZjdtd3h6ZXdoNDJlemozYXBjcTRyY2dhYzM2anNyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KT00yvFMOriW8k99KU/giphy.gif" width="800" height="450">
