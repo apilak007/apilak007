@@ -37,28 +37,30 @@ I enjoy creating projects and improving my skills.
 
 <!-- ==================== ROBOTICS PROJECTS ==================== -->
 
+<hr style="height:5px; background-color:black; border:none;">
+
 <h1>🛠️ My Robotics Projects</h1>
 
 <table align="center">
   <tr>
-
     <td align="center">
-      <img src="lego-ev3.png" width="300"><br><br>
+      <img src="lego-ev3.png" width="300"><br>
       <b>LEGO Mindstorms EV3</b>
     </td>
 
     <td align="center">
-      <img src="lego-nxt.png" width="300"><br><br>
+      <img src="lego-nxt.png" width="300"><br>
       <b>LEGO Mindstorms NXT</b>
     </td>
 
     <td align="center">
-      <img src="microbit.png" width="300"><br><br>
+      <img src="microbit.png" width="300"><br>
       <b>BBC micro:bit</b>
     </td>
-
   </tr>
 </table>
+
+<hr style="height:5px; background-color:black; border:none;">
 
 <hr style="height:5px; background-color:black; border:none;">
 
