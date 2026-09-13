@@ -32,7 +32,6 @@ Currently learning C, HTML, CSS, JavaScript, Git, and GitHub.<br>
 I enjoy creating projects and improving my skills.
 </b>
 
-<hr style="height:5px; background-color:black; border:none;">
 
 
 <!-- ==================== ROBOTICS PROJECTS ==================== -->
@@ -42,25 +41,26 @@ I enjoy creating projects and improving my skills.
 <h1>🛠️ My Robotics Projects</h1>
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <img src="lego-ev3.png" width="300"><br>
-      <b>LEGO Mindstorms EV3</b>
-    </td>
+<tr>
+<td align="center">
+<img src="lego-ev3.png" width="300">
+<br>
+<b>LEGO Mindstorms EV3</b>
+</td>
 
-    <td align="center">
-      <img src="lego-nxt.png" width="300"><br>
-      <b>LEGO Mindstorms NXT</b>
-    </td>
+<td align="center">
+<img src="lego-nxt.png" width="300">
+<br>
+<b>LEGO Mindstorms NXT</b>
+</td>
 
-    <td align="center">
-      <img src="microbit.png" width="300"><br>
-      <b>BBC micro:bit</b>
-    </td>
-  </tr>
+<td align="center">
+<img src="microbit.png" width="300">
+<br>
+<b>BBC micro:bit</b>
+</td>
+</tr>
 </table>
-
-<hr style="height:5px; background-color:black; border:none;">
 
 <hr style="height:5px; background-color:black; border:none;">
 
@@ -107,23 +107,9 @@ I enjoy creating projects and improving my skills.
 
 <hr style="height:5px; background-color:black; border:none;">
 
-
-<!-- ==================== GITHUB STATS ==================== -->
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apilak007&show_icons=true&hide_border=true">
-</p>
-
-<hr style="height:5px; background-color:black; border:none;">
-
-
 <!-- ==================== CONTACT ==================== -->
-
-<h2>📫 Contact Me</h2>
 
 <p>
   💻 GitHub: <b>apilak007</b><br>
-  📧 Email: your@email.com
+ 
 </p>
